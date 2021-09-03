@@ -39,8 +39,6 @@ public class DecToHexConversion {
 		for (int i = 0; i < convertedValue.size(); i++) {
 			System.out.print(convertedValue.get(i));
 		}
-		
-		//System.out.print("Output: " + convertedValue);
 	}
 
 }
